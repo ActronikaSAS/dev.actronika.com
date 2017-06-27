@@ -137,13 +137,13 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+  // border: 1px solid #ebebeb;
 
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  // box-shadow: 0 0 5px #ebebeb;
+  // -webkit-box-shadow: 0 0 5px #ebebeb;
+  // -moz-box-shadow: 0 0 5px #ebebeb;
+  // -o-box-shadow: 0 0 5px #ebebeb;
+  // -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
 p img {
@@ -283,12 +283,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: #000000;
+  background: -moz-linear-gradient(top, #000000, #000000);
+  background: -webkit-linear-gradient(top, #000000, #000000);
+  background: -ms-linear-gradient(top, #000000, #000000);
+  background: -o-linear-gradient(top, #000000, #000000);
+  background: linear-gradient(top, #000000, #000000);
 }
 
 #header_wrap .inner {
@@ -311,15 +311,15 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
-#downloads {
-  position: absolute;
-  width: 210px;
-  z-index: 10;
-  bottom: -40px;
-  right: 0;
-  height: 70px;
-  background: url('../images/icon_download.png') no-repeat 0% 90%;
-}
+// #downloads {
+//   position: absolute;
+//   width: 210px;
+//   z-index: 10;
+//   bottom: -40px;
+//   right: 0;
+//   height: 70px;
+//   background: url('../images/icon_download.png') no-repeat 0% 90%;
+// }
 
 .zip_download_link {
   display: block;

@@ -2,3 +2,26 @@
 ---
 
 @import "jekyll-theme-slate";
+
+ul#main_menu {  /*Ici , c'est ma configuration, à vous de la changer */
+
+width : 800px;
+
+height : 0px;
+
+list-style-type : none; /* Car sinon les puces se placent n'importe où */
+
+}
+
+ul#main_menu li {
+
+padding : 0 0.5em; /* Pour espacer les boutons entre eux */
+color: #fff;
+
+}
+
+li.left_menu {
+
+float : left;
+
+}
