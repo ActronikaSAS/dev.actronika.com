@@ -5,16 +5,22 @@ title: downloads
 
 # Downloads
 
-Follow these links to download : 
+On this page, you will find all the latest versions of the desktop app, user manual and the 3D printed modules provided in the kit.
 
- - [Desktop App]() -
- - [User Manual]() - 
- - [3D end modules]() - 
+## Tactronik Desktop App :
+
+#### Version 0.4.0
+
+[<img src="/assets/images/logo_w10.png" style="width:32%"/>](/)
+[<img src="/assets/images/logo_linux.png" style="width:32%"/>](/)
+[<img src="/assets/images/logo_apple.png" style="width:32%"/>]()
+
+By clicking on a logo, you can download the installer of our application for your prefered operating system.
+
+You can find the older versions of the desktop app [here]().
+
+## User Manual :
 
 
 
-Built on Electron, our application is available for the following platforms : 
-
-- Download .deb (Debian, Ubuntu).
-- Download for Windows (Windows 7, 8, 10).
-- Download for Mac (Not available yet).
+## 3D end modules :
