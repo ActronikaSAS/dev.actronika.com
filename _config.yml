@@ -1,5 +1,7 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Actronika
+description: Developers page for the Tactronik Evaluation Kit.
+email: contact@actronika.com
+website: actronika.com
+dev-website: dev.actronika.com
 theme: jekyll-theme-slate
+logo: assets/images/logo_actronika_black.png
