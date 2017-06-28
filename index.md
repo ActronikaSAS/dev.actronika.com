@@ -16,5 +16,12 @@ On this website, you will find all the content you will need to use our evaluati
 
 - A User Manual of the evaluation kit explaining how to get started with it.
 
-- 3D Models of the different modules provided in the kit, to print them by yourself and start with a base to design your own modules.
+- 3D Models of the different modules provided in the kit.
 
+- Technical Documentation about Tactronik.
+
+
+
+#### Thank you for choosing Actronika.
+
+### Would you like to [know more](http://www.actronika.com) ?

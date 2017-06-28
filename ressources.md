@@ -26,5 +26,3 @@ You can find the older versions of the desktop app [here](/archives.html).
 ## User Manual :
 
 
-
-## 3D end modules :
