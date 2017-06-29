@@ -12,13 +12,13 @@ The desktop app helps you to configure these haptic effects within our system an
 
 On this website, you will find all the content you will need to use our evaluation kit :
 
-- Links to download the last version of the desktop app and the old ones.
+Links to download the last version of the desktop app and the old ones
 
-- A User Manual of the evaluation kit explaining how to get started with it.
+A User Manual of the evaluation kit explaining how to get started with it
 
-- 3D Models of the different modules provided in the kit.
+3D Models of the different modules provided in the kit
 
-- Technical Documentation about Tactronik.
+Technical Documentation about Tactronik.
 
 
 
