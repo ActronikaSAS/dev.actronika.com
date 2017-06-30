@@ -18,6 +18,6 @@ permalink: /archives.html
 
 | Date  | Version of the Manual | Version (Tactronik / Desktop App) | Link |
 |-------|-----------------------|-----------------------------------|------|
-| 06/17 |                       | demo-v1.x / 0.4.x                 |      |
+| 06/17 | v1.1  | demo-v1.x / 0.4.x                 | [download](/resources/documentations/user-manual/Tactronik-Evaluationkit-UserManual-v1.1.pdf) |
 
 
