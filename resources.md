@@ -23,9 +23,22 @@ By clicking on a logo, you can download the installer of our application for you
 
 You can find the older versions of the desktop app [here](/archives.html).
 
-## User Manual :
+## Documentations :
+
+### User Manual
 
 The user manual presents the evaluation kit and how to use it with the desktop application.
-You can download it [here](/documentations/user-manual/)
 
+- You can download it [here](/resources/documentations/user-manual/Tactronik-Evaluationkit-UserManual-v1.1.pdf) (Right-click - Save link as).
 
+### API Documentation
+
+In this document, you will find the data structure to communicate with the Tactronik system through the communication protocols.
+
+- You can download it [here](/resources/documentations/api/Tactronik-API_Documentation-v1.0.pdf) (Right-click - Save link as).
+
+### Haptic Library Documentation
+
+This document present the haptic effects designed by Actronika.
+
+- You can download it [here](/resources/documentations/library/Tactronik-Evaluationkit-HapticLibrary-v1.1.pdf) (Right-click - Save link as). 
