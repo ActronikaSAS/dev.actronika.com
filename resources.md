@@ -33,9 +33,11 @@ The user manual presents the evaluation kit and how to use it with the desktop a
 
 ### API Documentation
 
-In this document, you will find the data structure to communicate with the Tactronik system through the communication protocols.
-
-- You can download it [here](/resources/documentations/api/Tactronik-API_Documentation-v1.0.pdf) (Right-click - Save link as).
+In this document, you will find the description of the two libraries used to communicate with the Tactronik system through the communication protocols.
+You can find the source code of these two libraries on our github : 
+- Simple Message Protocol Library (libsmp) : <https://github.com/ActronikaSAS/libsmp>
+- Tactronik UART Protocol (libtup) : <https://github.com/ActronikaSAS/libtup>
+- You can download the document [here](/resources/documentations/api/Tactronik-API_Documentation-v2.0.pdf) (Right-click - Save link as).
 
 ### Haptic Library Documentation
 
