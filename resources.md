@@ -43,4 +43,4 @@ You can find the source code of these two libraries on our github :
 
 This document present the haptic effects designed by Actronika.
 
-- You can download it [here](/resources/documentations/library/Tactronik-Evaluationkit-HapticLibrary-v1.1.pdf) (Right-click - Save link as). 
+- You can download it [here](/resources/documentations/library/Tactronik-Evaluationkit-HapticLibrary-v2.0.pdf) (Right-click - Save link as). 
