@@ -18,7 +18,7 @@ By clicking on a logo, you can download the installer of our application for you
 
     O.S. Compatibility : 
     
-    - Ubuntu / Debian
+    - Ubuntu / Debian - 64 bits only
     - Windows 7/8/10 - 64 bits only
 
 You can find the older versions of the desktop app [here](/archives.html).
