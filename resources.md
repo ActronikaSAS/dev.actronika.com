@@ -9,10 +9,10 @@ On this page, you will find all the latest versions of the desktop app, user man
 
 ## Tactronik Desktop App :
 
-#### Version 0.10.0
+#### Version 0.12.0
 
-[<img src="/assets/images/logo_linux.png" style="width:49%"/>](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.10.0/desktop-demo-kit_0.10.0_amd64.deb)
-[<img src="/assets/images/logo_w10.png" style="width:49%"/>](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.10.0/Tactronik.demo.kit.Setup.0.10.0.exe)
+[<img src="/assets/images/logo_linux.png" style="width:49%"/>](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.12.0x/desktop-demo-kit_0.12.0_amd64.deb)
+[<img src="/assets/images/logo_w10.png" style="width:49%"/>](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.12.0x/Tactronik.demo.kit.Setup.0.12.0.exe)
 
 By clicking on a logo, you can download the installer of our application for your prefered operating system.
 
