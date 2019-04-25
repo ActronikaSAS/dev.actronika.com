@@ -10,6 +10,7 @@ permalink: /archives.html
 
 | Date | Version | Tactronik Version Compatibility | Windows | Ubuntu / Debian | MacOs |
 |------|---------|-------------|---------|--------|-------|
+| 04/19 | 0.18.0 | 0.3.0 | [Windows 7/8/10 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.18.0/Tactronik.demo.kit.Setup.0.18.0.exe) | [Ubuntu / Debian 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.18.0/desktop-demo-kit_0.18.0_amd64.deb) | Not available |
 | 04/19 | 0.16.0 | 0.3.0 | [Windows 7/8/10 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.16.0/Tactronik.demo.kit.Setup.0.16.0.exe) | [Ubuntu / Debian 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.16.0/desktop-demo-kit_0.16.0_amd64.deb) | Not available |
 | 10/18 | 0.14.0 | 0.3.0 | [Windows 7/8/10 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.14.0/Tactronik.demo.kit.Setup.0.14.0.exe) | [Ubuntu / Debian 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.14.0/desktop-demo-kit_0.14.0_amd64.deb) | Not available |
 | 07/18 | 0.12.0 | 0.3.0 | [Windows 7/8/10 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.12.0x/Tactronik.demo.kit.Setup.0.12.0.exe) | [Ubuntu / Debian 64 bits](https://github.com/ActronikaSAS/tactronik-demo-kit/releases/download/v0.12.0x/desktop-demo-kit_0.12.0_amd64.deb) | Not available |
