@@ -29,7 +29,7 @@ You can find the older versions of the desktop app [here](/archives.html).
 
 The user manual presents the evaluation kit and how to use it with the desktop application.
 
-- You can download it [here](/resources/documentations/user-manual/Tactronik-Evaluationkit-UserManual-v1.1.pdf) (Right-click - Save link as).
+- You can download it [here](/resources/documentations/user-manual/Tactronik-Evaluationkit-UserManual-v4.pdf) (Right-click - Save link as).
 
 ### API Documentation
 
